@@ -1,0 +1,22 @@
+body {
+  background-color: #123;
+  color: aliceblue;
+  text-align: center;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+#form input {
+  padding: 1em;
+  font-size: 150%;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: white;
+  
+}
